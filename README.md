@@ -1,1 +1,1 @@
-# CrostiniのTerminalでUDEVGothic NF フォントを使うためのサーバー
+CrostiniのTerminalでUDEVGothic NF フォントを使うためのサーバー
